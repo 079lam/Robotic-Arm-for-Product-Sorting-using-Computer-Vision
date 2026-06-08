@@ -1,0 +1,25 @@
+[0.579s] Invoking command in '/home/lam/ros2_ws/src/cam_sub': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/lam/ros2_ws/build/cam_sub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lam/ros2_ws/install/cam_sub/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/cam_sub build --build-base /home/lam/ros2_ws/build/cam_sub/build install --record /home/lam/ros2_ws/build/cam_sub/install.log --single-version-externally-managed install_data
+[0.769s] running egg_info
+[0.782s] writing ../../build/cam_sub/cam_sub.egg-info/PKG-INFO
+[0.782s] writing dependency_links to ../../build/cam_sub/cam_sub.egg-info/dependency_links.txt
+[0.782s] writing entry points to ../../build/cam_sub/cam_sub.egg-info/entry_points.txt
+[0.782s] writing requirements to ../../build/cam_sub/cam_sub.egg-info/requires.txt
+[0.783s] writing top-level names to ../../build/cam_sub/cam_sub.egg-info/top_level.txt
+[0.812s] reading manifest file '../../build/cam_sub/cam_sub.egg-info/SOURCES.txt'
+[0.812s] adding license file 'LICENSE'
+[0.812s] writing manifest file '../../build/cam_sub/cam_sub.egg-info/SOURCES.txt'
+[0.812s] running build
+[0.812s] running build_py
+[0.812s] copying cam_sub/cam_sub.py -> /home/lam/ros2_ws/build/cam_sub/build/lib/cam_sub
+[0.812s] running install
+[0.818s] running install_lib
+[0.832s] copying /home/lam/ros2_ws/build/cam_sub/build/lib/cam_sub/cam_sub.py -> /home/lam/ros2_ws/install/cam_sub/lib/python3.12/site-packages/cam_sub
+[0.832s] byte-compiling /home/lam/ros2_ws/install/cam_sub/lib/python3.12/site-packages/cam_sub/cam_sub.py to cam_sub.cpython-312.pyc
+[0.833s] running install_data
+[0.834s] running install_egg_info
+[0.849s] removing '/home/lam/ros2_ws/install/cam_sub/lib/python3.12/site-packages/cam_sub-0.0.0-py3.12.egg-info' (and everything under it)
+[0.849s] Copying ../../build/cam_sub/cam_sub.egg-info to /home/lam/ros2_ws/install/cam_sub/lib/python3.12/site-packages/cam_sub-0.0.0-py3.12.egg-info
+[0.849s] running install_scripts
+[0.942s] Installing cam_sub script to /home/lam/ros2_ws/install/cam_sub/lib/cam_sub
+[0.943s] writing list of installed files to '/home/lam/ros2_ws/build/cam_sub/install.log'
+[0.963s] Invoked command in '/home/lam/ros2_ws/src/cam_sub' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/lam/ros2_ws/build/cam_sub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lam/ros2_ws/install/cam_sub/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/cam_sub build --build-base /home/lam/ros2_ws/build/cam_sub/build install --record /home/lam/ros2_ws/build/cam_sub/install.log --single-version-externally-managed install_data
